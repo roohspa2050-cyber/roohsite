@@ -1,0 +1,8 @@
+{
+  "name": "Rooh Spa",
+  "description": "Rooh Spa - A premium, bilingual luxury men's spa and wellness center in Jeddah offering medical-grade relaxation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
